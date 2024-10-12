@@ -1,0 +1,34 @@
+model,age,mileage,color,price,listing_age,location,fuel,transmission
+E 350 AMG,1,25000,Şampanya,6200000,2,İstanbul,benzin,otomatik
+E 350 AMG,1,11863,Füme,6158000,0,Ankara,benzin,otomatik
+E 350 AMG,6,54210,Beyaz,4555000,3,Kocaeli,benzin,otomatik
+E 350 AMG,1,6001,Gri,6999999,3,İstanbul,benzin,otomatik
+E 350 4Matic Edition,10,100000,Lacivert,2900000,4,Ankara,benzin,otomatik
+E 350 AMG,3,51000,Bordo,5350000,5,İstanbul,benzin,otomatik
+E 350 AMG,4,43534,Gri,4700000,4,İstanbul,benzin,otomatik
+E 350 AMG,5,107000,Kırmızı,4525000,7,İzmir,benzin,otomatik
+E 350 AMG,1,6010,Beyaz,6155000,7,İstanbul,benzin,otomatik
+E 350 AMG,3,20000,Bordo,6000000,7,İstanbul,benzin,otomatik
+E 350 AMG,1,32000,Beyaz,6300000,11,İstanbul,benzin,otomatik
+E 350 AMG,2,6500,Siyah,6200000,12,İstanbul,benzin,otomatik
+E 350 Avantgarde,17,279832,Şampanya,1155000,11,İzmir,benzin,otomatik
+E 350 AMG,2,6500,Şampanya,6950000,8,Malatya,benzin,otomatik
+E 350 AMG,4,72000,Lacivert,4890000,9,İstanbul,benzin,otomatik
+E 350 AMG,1,23985,Füme,6025000,17,Ankara,benzin,otomatik
+E 350 AMG,6,58000,Füme,4150000,15,İstanbul,benzin,otomatik
+E 350 AMG,1,15600,Bordo,6660000,18,Denizli,benzin,otomatik
+E 350 AMG,6,37000,Füme,4350000,24,Adana,benzin,otomatik
+E 350 AMG,6,35000,Beyaz,4400000,26,İstanbul,benzin,otomatik
+E 350 AMG,3,15000,Siyah,6000000,28,İstanbul,benzin,otomatik
+E 350 AMG,3,6100,Bej,6400000,28,Ankara,benzin,otomatik
+E 350 AMG,2,6001,Füme,6220000,28,İstanbul,benzin,otomatik
+E 350 Classic,17,225000,Siyah,1120000,13,Kocaeli,benzin-lpg,otomatik
+E 350 Avantgarde,18,188000,Siyah,1165000,15,Rize,benzin-lpg,otomatik
+E 350 Avantgarde,18,188000,Siyah,999000,13,İstanbul,benzin-lpg,otomatik
+E 350 Classic,17,288000,Siyah,1215000,13,İstanbul,benzin-lpg,otomatik
+E 350 Avantgarde,19,275000,Siyah,1100000,19,Muğla,benzin-lpg,otomatik
+E 350 Avantgarde,18,413000,Siyah,999000,21,Ankara,benzin-lpg,otomatik
+E 350 Avantgarde,8,225000,Siyah,3490000,4,İstanbul,dizel,otomatik
+E 350 Exclusive,8,149000,Siyah,3675000,21,İstanbul,dizel,otomatik
+E 350 Exclusive,7,139000,Lacivert,3875000,26,Konya,dizel,otomatik
+E 350 Avantgarde,8,85000,Siyah,4200000,29,Denizli,dizel,otomatik
